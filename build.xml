@@ -30,5 +30,6 @@
 		<delete dir="dist" />
 		<delete dir="build" />
 	</target>
-	
+	<target name ='nothing">
+		       </target>
 </project>
